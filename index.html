@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a0a0a">
+<meta name="ferro-titles" content="Ferro: workout log for iPhone|Ferro: дневник тренировок для iPhone|Ferro: iPhone‑ға арналған жаттығу журналы">
+<meta name="description" content="Ferro is a workout log for iPhone. Log a set in one tap, even from the lock screen. No account, works offline.">
+<title>Ferro: workout log for iPhone</title>
+<link rel="icon" type="image/png" href="assets/icon-64.png">
+<link rel="apple-touch-icon" href="assets/icon.png">
+<link rel="stylesheet" href="assets/ferro.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="./" data-page aria-label="Ferro"><img src="assets/icon-64.png" alt="" width="30" height="30"><span>Ferro</span></a>
+<nav class="nav" aria-label="Pages"><a href="support" data-page data-k="support">Support</a><a href="privacy" data-page data-k="privacy">Privacy</a><a href="drawings" data-page data-k="drawings">Drawings</a></nav>
+<div class="seg" role="navigation" aria-label="Language"><a href="#en" hreflang="en" lang="en" title="English" class=on>EN</a><a href="#ru" hreflang="ru" lang="ru" title="Русский">RU</a><a href="#kk" hreflang="kk" lang="kk" title="Қазақша">KK</a></div>
+</div></header>
+<main class="wrap">
+<section class="lang" id="en" lang="en">
+<div class="hero"><img class="icon" src="assets/icon.png" alt="" width="96" height="96"><p class="kicker">Workout log for iPhone</p><h1>Log a set<br>in <em>one tap.</em></h1><p class="lede">Even from the lock screen. Next targets come from your last workout, so there’s nothing to plan before the gym.</p><div class="pills"><span class="pill">No account</span><span class="pill">Works offline</span><span class="pill">7 days free</span><span class="pill">English · Русский · Қазақша</span></div><p class="soon">Coming soon to the App Store.</p></div><div class="stats"><div class="stat"><b>200</b><span>exercises, each explained</span></div><div class="stat"><b>7</b><span>cardio machines</span></div><div class="stat"><b>1</b><span>tap to log a set</span></div></div><nav class="rows"><a href="support" data-page><span>Support</span><small>Questions and contact</small></a><a href="privacy" data-page><span>Privacy policy</span><small>We collect nothing</small></a><a href="drawings" data-page><span>Exercise drawings</span><small>Download the SVGs</small></a></nav>
+</section>
+<section class="lang" id="ru" lang="ru">
+<div class="hero"><img class="icon" src="assets/icon.png" alt="" width="96" height="96"><p class="kicker">Дневник тренировок для iPhone</p><h1>Подход —<br><em>одним нажатием.</em></h1><p class="lede">Даже с экрана блокировки. Новые цели — по прошлой тренировке, так что перед залом ничего планировать не нужно.</p><div class="pills"><span class="pill">Без аккаунта</span><span class="pill">Работает без интернета</span><span class="pill">7 дней бесплатно</span><span class="pill">English · Русский · Қазақша</span></div><p class="soon">Скоро в App Store.</p></div><div class="stats"><div class="stat"><b>200</b><span>упражнений с описанием</span></div><div class="stat"><b>7</b><span>кардиотренажёров</span></div><div class="stat"><b>1</b><span>нажатие на подход</span></div></div><nav class="rows"><a href="support" data-page><span>Поддержка</span><small>Частые вопросы и связь</small></a><a href="privacy" data-page><span>Политика конфиденциальности</span><small>Мы ничего не собираем</small></a><a href="drawings" data-page><span>Рисунки упражнений</span><small>Скачать SVG</small></a></nav>
+</section>
+<section class="lang" id="kk" lang="kk">
+<div class="hero"><img class="icon" src="assets/icon.png" alt="" width="96" height="96"><p class="kicker">iPhone‑ға арналған жаттығу журналы</p><h1>Бір тәсіл —<br><em>бір басу.</em></h1><p class="lede">Тіпті құлып экранынан. Жаңа мақсаттар өткен жаттығудан алынады, сондықтан залға дейін ештеңе жоспарлаудың қажеті жоқ.</p><div class="pills"><span class="pill">Аккаунтсыз</span><span class="pill">Интернетсіз жұмыс істейді</span><span class="pill">7 күн тегін</span><span class="pill">English · Русский · Қазақша</span></div><p class="soon">Жақында App Store‑да.</p></div><div class="stats"><div class="stat"><b>200</b><span>түсіндірмесі бар жаттығу</span></div><div class="stat"><b>7</b><span>кардио тренажёр</span></div><div class="stat"><b>1</b><span>басу — бір тәсіл</span></div></div><nav class="rows"><a href="support" data-page><span>Қолдау</span><small>Жиі қойылатын сұрақтар және байланыс</small></a><a href="privacy" data-page><span>Құпиялық саясаты</span><small>Біз ештеңе жинамаймыз</small></a><a href="drawings" data-page><span>Жаттығу суреттері</span><small>SVG жүктеу</small></a></nav>
+</section>
+</main>
+<footer><div class="wrap"><span>© 2026 Sergey Bondar · <span class="lang-foot">Made in Kazakhstan.</span></span><a href="mailto:help.ferro.app@outlook.com">help.ferro.app@outlook.com</a></div></footer>
+<script>
+(function(){
+  var codes=["en","ru","kk"], nav={"support": ["Support", "Поддержка", "Қолдау"], "privacy": ["Privacy", "Конфиденциальность", "Құпиялық"], "drawings": ["Drawings", "Рисунки", "Суреттер"]};
+  function pick(){
+    var h=location.hash.slice(1);
+    if(codes.indexOf(h)<0){
+      var l=(navigator.languages||[navigator.language||"en"]).map(function(x){return x.slice(0,2)});
+      h=l.filter(function(x){return codes.indexOf(x)>=0})[0]||"en";
+      if(h!=="en"){history.replaceState(null,"","#"+h)}
+    }
+    document.documentElement.lang=h;
+    codes.forEach(function(c){var s=document.getElementById(c);if(s)s.style.display=c===h?"block":"none"});
+    document.querySelectorAll(".seg a").forEach(function(a){a.classList.toggle("on",a.getAttribute("href")==="#"+h)});
+    document.querySelectorAll("[data-page]").forEach(function(a){a.href=a.getAttribute("href").split("#")[0]+(h==="en"?"":"#"+h)});
+    document.querySelectorAll(".nav a").forEach(function(a){var k=a.dataset.k;if(nav[k])a.textContent=nav[k][codes.indexOf(h)]});
+    var t=document.querySelector('meta[name="ferro-titles"]');if(t)document.title=t.content.split("|")[codes.indexOf(h)];
+  }
+  window.addEventListener("hashchange",function(){pick();window.scrollTo(0,0)});pick();window.scrollTo(0,0);
+})();
+</script>
+</body>
+</html>
