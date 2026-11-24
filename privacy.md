@@ -34,7 +34,7 @@ If you write to support, we get what you send: your email address, your message 
 ### Your choices
 
 - Turn iCloud sync off in Ferro → Settings → Data & sync. Nothing is deleted.
-- Erase everything Ferro keeps on the iPhone in Data & sync → Erase all data…, or by deleting the app.
+- Data & sync → Erase all data… erases your log: workouts, routines, typed weigh-ins and settings. Deleting the app removes everything Ferro keeps on the iPhone, including the copy of your Health weight it reads.
 - Delete Ferro's data in iCloud in the iOS Settings app → your name → iCloud → Manage Storage → Ferro.
 - Remove Ferro's Health access in the Health app → Profile → Apps → Ferro.
 
@@ -79,7 +79,7 @@ Ferro — журнал тренировок для iPhone. Разработчи�
 ### Что вы можете сделать
 
 - Выключить синхронизацию iCloud: Ferro → Настройки → Данные и синхронизация. Ничего не удаляется.
-- Стереть всё, что Ferro хранит на iPhone: Данные и синхронизация → Стереть все данные… или удалить приложение.
+- Данные и синхронизация → Стереть все данные… стирает журнал: тренировки, программы, введённые взвешивания и настройки. Если удалить приложение, исчезнет всё, что Ferro хранит на iPhone, включая копию веса из Apple Health.
 - Удалить данные Ferro в iCloud: приложение «Настройки» → ваше имя → iCloud → Управление хранилищем → Ferro.
 - Отозвать доступ Ferro к Здоровью: приложение «Здоровье» → Профиль → Приложения → Ferro.
 
@@ -124,7 +124,7 @@ Ferro — iPhone‑ға арналған жаттығу журналы. Әзір
 ### Не істей аласыз
 
 - iCloud синхрондауды өшіру: Ferro → Баптаулар → Деректер және синхрондау. Ештеңе жойылмайды.
-- Ferro iPhone‑да сақтайтынның бәрін өшіру: Деректер және синхрондау → Барлық деректерді өшіру… немесе қолданбаны жою.
+- Деректер және синхрондау → Барлық деректерді өшіру… журналды өшіреді: жаттығулар, бағдарламалар, қолмен енгізілген салмақ және баптаулар. Қолданбаны жойсаңыз, Ferro iPhone‑да сақтайтынның бәрі, Apple Health‑тан алынған салмақ көшірмесі де жойылады.
 - Ferro‑ның iCloud‑тағы деректерін жою: «Реттеулер» қолданбасы → атыңыз → iCloud → Қойманы басқару → Ferro.
 - Ferro‑ның Денсаулыққа рұқсатын алып тастау: «Денсаулық» қолданбасы → Профиль → Қолданбалар → Ferro.
 

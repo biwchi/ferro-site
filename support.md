@@ -14,7 +14,7 @@ Write to [help.ferro.app@outlook.com](mailto:help.ferro.app@outlook.com). The qu
 ### Common questions
 
 **How does the free trial work?**
-Ferro is free for 7 days from the first launch, with no payment details asked. Then pick €2.49 a month, €19.99 a year or €49.99 once for lifetime. If you don't, the log locks, and exporting it still works.
+Ferro is free for 7 days from the first launch, with no payment details asked. Then pick $2.49 a month, $19.99 a year or $49.99 once for lifetime (the App Store shows these in your own currency). If you don't, the log locks, and exporting it still works.
 
 **I bought Ferro on another iPhone, or reinstalled it.**
 Open the paywall or the lock screen and tap Restore. Use the same Apple Account you bought with.
@@ -47,7 +47,7 @@ Ferro collects nothing. Your log stays on your devices and in your iCloud. Read 
 ### Частые вопросы
 
 **Как работает пробный период?**
-Ferro бесплатен 7 дней с первого запуска, платёжные данные не нужны. Потом выберите €2,49 в месяц, €19,99 в год или €49,99 один раз навсегда. Если не выбрать, журнал закроется, но экспорт продолжит работать.
+Ferro бесплатен 7 дней с первого запуска, платёжные данные не нужны. Потом выберите 2,49 $ в месяц, 19,99 $ в год или 49,99 $ один раз навсегда (App Store показывает цены в вашей валюте). Если не выбрать, журнал закроется, но экспорт продолжит работать.
 
 **Я купил Ferro на другом iPhone или переустановил приложение.**
 Откройте экран оплаты или блокировки и нажмите «Восстановить». Войдите с той же учётной записью Apple, с которой покупали.
@@ -80,7 +80,7 @@ Ferro ничего не собирает. Журнал хранится на в�
 ### Жиі қойылатын сұрақтар
 
 **Тегін сынақ мерзімі қалай жұмыс істейді?**
-Ferro алғашқы іске қосылғаннан бастап 7 күн тегін, төлем деректері сұралмайды. Содан кейін айына €2,49, жылына €19,99 немесе бір рет €49,99 (мәңгілік) таңдаңыз. Таңдамасаңыз, журнал жабылады, бірақ экспорт жұмыс істей береді.
+Ferro алғашқы іске қосылғаннан бастап 7 күн тегін, төлем деректері сұралмайды. Содан кейін айына 2,49 $, жылына 19,99 $ немесе бір рет 49,99 $ (мәңгілік; App Store бағаларды сіздің валютаңызда көрсетеді) таңдаңыз. Таңдамасаңыз, журнал жабылады, бірақ экспорт жұмыс істей береді.
 
 **Ferro‑ны басқа iPhone‑да сатып алдым немесе қайта орнаттым.**
 Төлем немесе бұғат экранын ашып, «Қалпына келтіру» түймесін басыңыз. Сатып алған Apple аккаунтыңызбен кіріңіз.
